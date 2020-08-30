@@ -1,1 +1,1 @@
-git+http://github.com/andrewning/sortphotos#egg=sortphotos
+git+https://github.com/ccheets/sortphotos@4449f814dc420e900cc04722cc23dd86845484b2#egg=sortphotos
